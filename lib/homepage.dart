@@ -15,7 +15,7 @@ class homepage extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text('Welcome to Rizoma Develpor'),
+          child: Text('Welcome to RizomaLabs'),
         ),
       ),
       drawer: Drawer(),
